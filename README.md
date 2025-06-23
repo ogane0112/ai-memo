@@ -131,3 +131,6 @@ Alpine.jsでは`x-data`で状態を持ち、`x-on:click`や`x-show`でUIの切�
         タブ2の内容
     </x-ui.tabs-content>
 </x-ui.tabs>
+
+
+https://v0.dev/chat/react-to-blade-conversion-RVmGhMEY7F6
