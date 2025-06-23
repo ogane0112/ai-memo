@@ -1,3 +1,6 @@
+
+
+
 # ai-memo
 
 
@@ -114,3 +117,17 @@ Alpine.jsでは`x-data`で状態を持ち、`x-on:click`や`x-show`でUIの切�
 - タブ切替は`activeTab`で管理し、`x-show`で内容を切り替えます。
 
 ご質問やカスタマイズ要望があればどうぞ！
+
+
+<x-ui.tabs initial="tab1">
+    <x-ui.tabs-list>
+        <x-ui.tabs-trigger value="tab1">タブ1</x-ui.tabs-trigger>
+        <x-ui.tabs-trigger value="tab2">タブ2</x-ui.tabs-trigger>
+    </x-ui.tabs-list>
+    <x-ui.tabs-content value="tab1">
+        タブ1の内容
+    </x-ui.tabs-content>
+    <x-ui.tabs-content value="tab2">
+        タブ2の内容
+    </x-ui.tabs-content>
+</x-ui.tabs>
