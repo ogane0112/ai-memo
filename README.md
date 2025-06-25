@@ -78,5 +78,4 @@ where('user_id', 1) → さらにuser_id=1（自分のもの）だけに絞る
 
 もしさらに細かく知りたい部分や、  
 「この処理を使う他の良い例」なども知りたければ教えてください！
-
-https://github.com/copilot/c/84cf65a2-0cb7-45cd-93a9-52ec7bf72273
+https://github.com/copilot/share/88455394-48c0-8402-a812-a60700e661c0
