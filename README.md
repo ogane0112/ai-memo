@@ -10,7 +10,8 @@
    php artisan make:migration create_business_card_trades_table
    ```
 2. マイグレーションファイルに外部キーや `status` カラムを追加（前述の例参照）
-3. ```
+3.
+ ```
 <?php
 
 use Illuminate\Database\Migrations\Migration;
